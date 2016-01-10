@@ -8,6 +8,8 @@ Sample website with plenty of files for demos
 
 ## deployment
 
+## How To Contribute
+please checkout the fork 
 
 ## 
 end
