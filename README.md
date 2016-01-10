@@ -11,3 +11,5 @@ Sample website with plenty of files for demos
 
 ## 
 end
+### Copy Right
+2014 git training copy right
