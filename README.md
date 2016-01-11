@@ -15,4 +15,4 @@ please checkout the fork
 ## 
 end
 ### Copy Right
- 2014 Git.Training copyright
+ 2014 Git.Training copyright. All rightd reserved.
